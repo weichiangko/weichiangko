@@ -47,7 +47,7 @@
 
 ### 💼 Notable Projects
 
-- [ScribeVerge](https://github.com/weichiangko/nextjs-web-editor) - Real-time collaborative document editor. Built with Next.js.
+- [BanyanDocs](https://github.com/weichiangko/nextjs-web-editor) - Real-time collaborative document editor. Built with Next.js.
 
 ---
 <p align="center">
