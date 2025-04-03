@@ -9,7 +9,7 @@
   <a href="mailto:designerko1215@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email" />
   </a>
-  <a href="">
+  <a href="https://www.cake.me/weichiangko">
     <img src="https://img.shields.io/badge/Resume-rgb(91, 212, 255)?style=for-the-badge" alt="Resume" />
   </a>
 </h4>
