@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ben Ko (柯瑋強)</a></h1>
 <h3 align="center"><i>Passionate building lovable digital product.</i></h3>
-<p align="center">Experienced Frontend Devloper | Award-winning UX/UI Designer</p>
+<p align="center">
+  <code>Experienced Frontend Devloper</code> | <code>Award-winning UX/UI Designer</code>
+</p>
 
 <h4 align="center">
   <a href="https://www.linkedin.com/in/weichiangko/">
