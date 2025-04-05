@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-<p>Hi, I'm <b>Wei Chiang Ko (Ben Ko)</b>, a multi-disciplinary developer at <a href="https://www.mitac.com/en-global">MiTAC</a> with front-end and UX/UI expertise, and an award-winning designer. I love crafting unique solutions and collaborating with inclusive, supportive teams.</p>
+<p>Hi, I'm <b>Wei Chiang Ko (Ben Ko)</b>, a multi-disciplinary developer at <a href="https://www.mitac.com/en-global">MiTAC</a> with front-end and UX/UI expertise, and an award-winning designer recognized with two iF Design Awards. I love crafting unique solutions and collaborating with inclusive, supportive teams.</p>
 
 <p>With over 10 years of software development experience spanning healthcare, machine tools, consumer electronics, automotive electronics, and AI startups, I seamlessly transform ideas into real products by harnessing both design and development expertise.</p>
 
