@@ -32,18 +32,19 @@
 
 #### **Frontend:**
 
-![React](https://img.shields.io/badge/react-0F172A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/badge/next-0F172A?style=for-the-badge&logo=next.js)
-![Vue.js](https://img.shields.io/badge/vue-0F172A?style=for-the-badge&logo=vue.js)
-![Larvel](https://img.shields.io/badge/laravel-0F172A?style=for-the-badge&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/react-f3f4f6?style=for-the-badge&logo=react&logoColor=0ea5e9)
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=f3f4f6&logo=React&logoColor=0ea5e9&label=)
+![Next.js](https://img.shields.io/badge/next-f3f4f6?style=for-the-badge&logo=next.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vue-f3f4f6?style=for-the-badge&logo=vue.js)
+![Larvel](https://img.shields.io/badge/laravel-f3f4f6?style=for-the-badge&logo=laravel)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-f3f4f6?style=for-the-badge&logo=tailwindcss)
+![Electron](https://img.shields.io/badge/electron-f3f4f6?style=for-the-badge&logo=electron&logoColor=black)
 
 **Others:**
 
-![Git](https://img.shields.io/badge/git-0F172A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![Figma](https://img.shields.io/badge/figma-0F172A?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-f3f4f6?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-f3f4f6?style=for-the-badge&logo=github&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-f3f4f6?style=for-the-badge&logo=figma&logoColor=black)
 
 ---
 
