@@ -37,7 +37,7 @@
 ![Next.js](https://img.shields.io/badge/next-f3f4f6?style=for-the-badge&logo=next.js&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vue-f3f4f6?style=for-the-badge&logo=vue.js)
 ![Larvel](https://img.shields.io/badge/laravel-f3f4f6?style=for-the-badge&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-f3f4f6?style=for-the-badge&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-f3f4f6?style=for-the-badge&logo=tailwindcss)
 ![Electron](https://img.shields.io/badge/electron-f3f4f6?style=for-the-badge&logo=electron&logoColor=black)
 
 **Tools:**
