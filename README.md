@@ -30,7 +30,7 @@
 
 ### ⚙️ Tech Stack & Tools
 
-#### **Frontend:**
+**Frontend:**
 
 ![React](https://img.shields.io/badge/react-f3f4f6?style=for-the-badge&logo=react&logoColor=0ea5e9)
 ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=f3f4f6&logo=React&logoColor=0ea5e9&label=)
@@ -40,11 +40,17 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-f3f4f6?style=for-the-badge&logo=tailwindcss)
 ![Electron](https://img.shields.io/badge/electron-f3f4f6?style=for-the-badge&logo=electron&logoColor=black)
 
-**Others:**
+**Tools:**
 
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-f3f4f6?style=for-the-badge&logoColor=black)
+![Cursor](https://img.shields.io/badge/cursor-f3f4f6?style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/git-f3f4f6?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-f3f4f6?style=for-the-badge&logo=github&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-f3f4f6?style=for-the-badge&logo=figma&logoColor=black)
+
+**AI Integration:**
+
+![Gemini](https://img.shields.io/badge/gemini%20api-f3f4f6?style=for-the-badge&logo=googlegemini&logoColor=#8E75B2)
 
 ---
 
