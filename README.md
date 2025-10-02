@@ -57,6 +57,7 @@
 ### 💼 Notable Projects
 
 - [BanyanDocs](https://github.com/weichiangko/nextjs-web-editor) - Real-time collaborative document editor. Built with Next.js.
+- [Edge AI Camera System](https://github.com/weichiangko/ai-camera-system) - An Edge A.I. powered surveilance configuration system. Build with React.js.
 
 ---
 <p align="center">
